@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>components/CatergorySelect.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/HansoSW/">
+    <file alias="main.qml">/home/quangnam/Hung/HansoSW/main.qml</file>
+    <file alias="components/SplashScreen.qml">/home/quangnam/Hung/HansoSW/components/SplashScreen.qml</file>
+    <file alias="components/AdminMode.qml">/home/quangnam/Hung/HansoSW/components/AdminMode.qml</file>
+    <file alias="components/PreheatScreen.qml">/home/quangnam/Hung/HansoSW/components/PreheatScreen.qml</file>
+    <file alias="components/CategorySelect.qml">/home/quangnam/Hung/HansoSW/components/CategorySelect.qml</file>
+    <file alias="resources.qrc">/home/quangnam/Hung/HansoSW/resources.qrc</file>
+  </qresource>
+</RCC>
+

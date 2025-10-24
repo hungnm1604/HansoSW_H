@@ -1,0 +1,8 @@
+module HansoSW
+typeinfo appHansoSW.qmltypes
+prefer :/HansoSW/
+SplashScreen 1.0 components/SplashScreen.qml
+AdminMode 1.0 components/AdminMode.qml
+PreheatScreen 1.0 components/PreheatScreen.qml
+CategorySelect 1.0 components/CategorySelect.qml
+

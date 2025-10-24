@@ -1,0 +1,12 @@
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW_automoc_json_extraction.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW_qmltyperegistration.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/all_qmltyperegistrations.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW_other_files.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW_qmllint.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/all_qmllint.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW_tooling.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/copy_assets.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/edit_cache.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/rebuild_cache.dir
+/home/quangnam/Hung/HansoSW/build/CMakeFiles/appHansoSW_autogen.dir

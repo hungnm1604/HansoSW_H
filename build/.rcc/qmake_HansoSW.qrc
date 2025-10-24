@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/HansoSW">
+    <file alias="qmldir">/home/quangnam/Hung/HansoSW/build/HansoSW/qmldir</file>
+  </qresource>
+</RCC>
+

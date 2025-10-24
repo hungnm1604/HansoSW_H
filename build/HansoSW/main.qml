@@ -35,6 +35,10 @@ ApplicationWindow {
     property string csNameButton6:    categoryScreen.value("csNameButton6", "개인화기")
 
 
+
+
+
+
      // state: "splash" | "preheat" | "admin"
      property string appState: "splash"
 
@@ -76,7 +80,7 @@ ApplicationWindow {
     Component {
            id: categoryC
            CategorySelect {
-               logoSource: "file:/" + appRunDir + logoPath
+              // logoSource: "file:/" + appRunDir + logoPath
                csSSelectMsg: win.csSSelectMsg
                csNameButton1: win.csNameButton1
                csNameButton2: win.csNameButton2
